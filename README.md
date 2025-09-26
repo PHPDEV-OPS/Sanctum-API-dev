@@ -1,4 +1,3 @@
----
 
 ## 🚀 Laravel 12 Sanctum API Practice Project
 
