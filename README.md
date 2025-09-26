@@ -329,5 +329,4 @@ This project is open-source and free to use for **learning purposes**.
 
 ---
 
-👉 Do you want me to also add **full CRUD (update, delete) for posts** in this README so it looks like a real-world API doc?
 
